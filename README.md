@@ -4,10 +4,10 @@ Hello! The purpose of this repository is to collect resources and tips for progr
 ## 📚 General resources:
 - [websites](https://github.com/Lumary2/Developer-resources-and-tips-collection/blob/main/General_resources/websites.md)
 - [Github repos](https://github.com/Lumary2/Developer-resources-and-tips-collection/blob/main/General_resources/Github_repos.md)
-- videos
+- [videos](https://github.com/Lumary2/Developer-resources-and-tips-collection/edit/main/General_resources/videos.md)
 - books
 - blog
-- software / apps
+- [software / apps](https://github.com/Lumary2/Developer-resources-and-tips-collection/blob/main/General_resources/software.md)
 - ...
 
 ## 👩🏻‍💻 Resources for programming languages:
