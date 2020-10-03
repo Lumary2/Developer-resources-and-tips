@@ -7,9 +7,9 @@ beginner frendly with easy explanation.
 The official documentation and vast resource. Recommend it when you are fairly experienced.
 
 #### PHP frameworks
-Once you know the basic syntax it is recommended to use a PHP framework as using plain PHP is not suitable to build apps and websites.
-I recommend using Symfony Components <https://symfony.com/components> by Symfony Project <https://symfony.com/components>.
-As one can combine plain PHP and prebuilt Symfony Components.
+Once you know the basic syntax it is recommended to use a PHP framework as using plain PHP is not suitable to build apps and websites.  
+I recommend using Symfony Components <https://symfony.com/components> by Symfony Project <https://symfony.com/components>.  
+As one can combine plain PHP and prebuilt Symfony Components.  
 They have a easy to follow guide which teaches web framework basics and how to create a framework <https://symfony.com/doc/current/create_framework/index.html>.
 
 
