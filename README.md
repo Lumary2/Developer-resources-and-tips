@@ -13,7 +13,8 @@ Hello! The purpose of this repository is to collect resources and tips for progr
 ## 👩🏻‍💻 Resources for programming languages:
 - Java
 - Python
-- C
+- C  
+- PHP  
 - …
 
 ## 💻 Resources Software Engineering topics
