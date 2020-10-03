@@ -1,4 +1,4 @@
-# Developer-resources-and-tips-collection
+# Developer-resources-and-tips
 Hello! The purpose of this repository is to collect resources and tips for programmers. There are different categories you can add your info to:
 
 ## 📚 General resources:
