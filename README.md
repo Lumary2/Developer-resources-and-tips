@@ -8,6 +8,7 @@ Hello! The purpose of this repository is to collect resources and tips for progr
 - books
 - blog
 - software / apps
+- ...
 
 ## 👩🏻‍💻 Resources for programming languages:
 - Java
@@ -15,7 +16,7 @@ Hello! The purpose of this repository is to collect resources and tips for progr
 - C
 - …
 
-## 💻 Resources for different Programmer topics
+## 💻 Resources for different Software Engineering topics
 - Databases
 - Data structures & algorithms
 - Design Patterns
