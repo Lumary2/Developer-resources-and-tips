@@ -1,7 +1,7 @@
 # Developer-resources-and-tips-collection
 Hello! The purpose of this repository is to collect resources and tips for programmers. There are different categories you can add your info to:
 
-## 📚 General resources with subcategories:
+## 📚 General resources:
 - websites
 - Github repos
 - videos
@@ -16,14 +16,14 @@ Hello! The purpose of this repository is to collect resources and tips for progr
 - C
 - …
 
-## 💻 Resources for different Software Engineering topics
+## 💻 Resources Software Engineering topics
 - Databases
 - Data structures & algorithms
 - Design Patterns
 - Networking
 - …
 
-## 💡 Tips – what I learned and found useful
+## 💡 General Tips
 - What I wished I knew before I started programming
 - How to not procrastinate
 - How to stay motivated
