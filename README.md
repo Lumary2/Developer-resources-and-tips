@@ -29,4 +29,4 @@ Hello! The purpose of this repository is to collect resources and tips for progr
 - How to stay motivated
 - ...
 
-I hope you find this repo useful and Im happy if you contribute to it! 😊
+I hope you find this repo useful and Im happy if you contribute to it! 😊 If you don't know how to contribute on Github, see this link: https://www.dataschool.io/how-to-contribute-on-github/
