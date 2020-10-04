@@ -20,7 +20,7 @@ Hello! The purpose of this repository is to collect resources and tips for progr
 ## 💻 Resources Software Engineering topics
 - Databases
 - [Data structures & algorithms](https://github.com/Lumary2/Developer-resources-and-tips-collection/blob/main/Resources_Software_Engineering_topics/Data_structures_and_algorithms.md)
-- Design Patterns
+- [Design Patterns](https://github.com/Lumary2/Developer-resources-and-tips-collection/blob/main/Resources_Software_Engineering_topics/Design_Patterns.md)
 - Networking
 - …
 
