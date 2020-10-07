@@ -5,7 +5,8 @@ Hello! The purpose of this repository is to collect resources and tips for progr
 - [websites](https://github.com/Lumary2/Developer-resources-and-tips-collection/blob/main/General_resources/websites.md)
 - [Github repos](https://github.com/Lumary2/Developer-resources-and-tips-collection/blob/main/General_resources/Github_repos.md)
 - [videos](https://github.com/Lumary2/Developer-resources-and-tips-collection/blob/main/General_resources/videos.md)
-- books
+- [books](General_resources/books.md)
+- [conferences](General_resources/conferences.md)
 - blog
 - [software / apps](https://github.com/Lumary2/Developer-resources-and-tips-collection/blob/main/General_resources/software.md)
 - ...
@@ -14,6 +15,7 @@ Hello! The purpose of this repository is to collect resources and tips for progr
 - [Java](https://github.com/Lumary2/Developer-resources-and-tips-collection/blob/main/Resources_for_programming_languages/Java.md)
 - Python
 - C  
+- [C++](Genereal_resources/../Resources_for_programming_languages/C++.md)
 - [PHP](https://github.com/Lumary2/Developer-resources-and-tips-collection/blob/main/Resources_for_programming_languages/Php.md)
 - …
 
