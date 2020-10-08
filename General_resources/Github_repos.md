@@ -1,4 +1,4 @@
-### github repros
+### Github repos
 
 1. www.github.com/EbookFoundation/free-programming-books
 Here you find a lot of different programming books in different languages.📚It also contains links to free online courses and more. The repo is rated with 150k stars!
