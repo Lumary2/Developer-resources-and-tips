@@ -1,8 +1,12 @@
-- www.w3schools.com : Learn HTML, CSS, JavaScript, SQL and more for free. Excellent for beginners.
+### websites
 
-- www.codecademy.com : Offers courses in Web Development, Data Science, Computer Science and more. Free and paid options.
+- [w3schools](www.w3schools.com) : Learn HTML, CSS, JavaScript, SQL and more for free. Excellent for beginners.
 
-- www.tutorialspoint.com : Covers a wide range of programming languages and topics, written and in video. Also a nice reference for looking up programming language questions.
+- [Codecademy](www.codecademy.com) : Offers courses in Web Development, Data Science, Computer Science and more. Free and paid options.
+
+- [tutorialspoint](www.tutorialspoint.com) : Covers a wide range of programming languages and topics, written and in video. Also a nice reference for looking up programming language questions.
+- [Stackoverflow](https://stackoverflow.com/) : The first address when you have questions to coding in every language.
+- [DEV](https://dev.to/): Developer Social Network
 
 
 ### Cover image maker
