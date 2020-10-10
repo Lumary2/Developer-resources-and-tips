@@ -1,7 +1,6 @@
 ### What I wish I knew before I started programming
 
-### kaeptnkrunch
-[GitHub](https://github.com/kaeptnkrunch)
+### Author [kaeptnkrunch](https://github.com/kaeptnkrunch)
 
 ## Programming is a lot of work
 Yes, programming is fun, but to get there you have to go a long way. Some programming languages are very easy to learn, some require significantly more effort. If you want to become good at programming, that means programming and learning a lot.
