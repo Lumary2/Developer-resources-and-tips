@@ -37,6 +37,8 @@
 
 - https://get.tech
 
+---
+
 ### Design related links:
 
 ## Colors for CSS
