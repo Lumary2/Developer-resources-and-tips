@@ -29,11 +29,7 @@
 
 -  Free https://console.cron-job.org/
 
-### Backend 
-
-- https://roadmap.sh/backend
-
-### Get domains
+### Domains
 
 - https://get.tech
 
