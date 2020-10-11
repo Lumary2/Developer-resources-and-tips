@@ -1,4 +1,4 @@
-### websites
+### Websites
 
 - [w3schools](www.w3schools.com) : Learn HTML, CSS, JavaScript, SQL and more for free. Excellent for beginners.
 
@@ -8,22 +8,10 @@
 - [Stackoverflow](https://stackoverflow.com/) : The first address when you have questions to coding in every language.
 - [DEV](https://dev.to/): Developer Social Network
 
-
-### Cover image maker
-
-- https://coverview.now.sh/
-
 ### tweet-scheduler 
 
 - https://twittimer.com/app/#/
 
-### Beautify images of source code
-
-- https://carbon.now.sh/
-
-### Free favicon icon generator 
-
-- https://favicon.io/
 
 ### Open source contribution reference
 
@@ -45,7 +33,13 @@
 
 - https://roadmap.sh/backend
 
-### Colors for CSS
+### Get domains
+
+- https://get.tech
+
+### Design related links:
+
+## Colors for CSS
 - http://colors.co/
 - https://colorhunt.co/
 - http://paletton.com/#uid=1490u0kB1s6noACup-9F3mPL3hq
@@ -57,11 +51,21 @@
 - https://imagecolorpicker.com/en/
 - http://colormind.io
 
-### CSS Smooth Shadow Generator
+## CSS Smooth Shadow Generator
 
 https://neumorphism.io/
 https://brumm.af/shadows
 
-### Get domains
+## Beautify images of source code
 
-- https://get.tech
+- https://carbon.now.sh/
+
+## Free favicon icon generator 
+
+- https://favicon.io/
+
+
+## Cover image maker
+
+- https://coverview.now.sh/
+
