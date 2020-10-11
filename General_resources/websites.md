@@ -7,11 +7,8 @@
 - [tutorialspoint](www.tutorialspoint.com) : Covers a wide range of programming languages and topics, written and in video. Also a nice reference for looking up programming language questions.
 - [Stackoverflow](https://stackoverflow.com/) : The first address when you have questions to coding in every language.
 - [DEV](https://dev.to/): Developer Social Network
-
-### tweet-scheduler 
-
-- https://twittimer.com/app/#/
-
+- https://twittimer.com/app/#/ : tweet scheduler
+- https://console.cron-job.org/ : cron service
 
 ### Open source contribution reference
 
@@ -19,15 +16,10 @@
 - https://up-for-grabs.net/
 - https://goodfirstissues.com/
 
-
 ### Hosting sites (free)
 
 - https://vercel.com/
 - https://www.netlify.com/
-
-### Cron services
-
--  Free https://console.cron-job.org/
 
 ### Domains
 
