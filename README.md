@@ -2,13 +2,14 @@
 Hello! The purpose of this repository is to collect resources and tips for programmers. There are different categories you can add your info to:
 
 ## 📚 General resources:
-- [websites](https://github.com/Lumary2/Developer-resources-and-tips-collection/blob/main/General_resources/websites.md)
+- [Websites](https://github.com/Lumary2/Developer-resources-and-tips-collection/blob/main/General_resources/websites.md)
 - [Github repos](https://github.com/Lumary2/Developer-resources-and-tips-collection/blob/main/General_resources/Github_repos.md)
-- [videos](https://github.com/Lumary2/Developer-resources-and-tips-collection/blob/main/General_resources/videos.md)
-- [books](General_resources/books.md)
-- [conferences](General_resources/conferences.md)
-- blog
-- [software / apps](https://github.com/Lumary2/Developer-resources-and-tips-collection/blob/main/General_resources/software.md)
+- [Hackathons](https://github.com/Lumary2/Developer-resources-and-tips/blob/main/General_resources/hackathons.md)
+- [Videos](https://github.com/Lumary2/Developer-resources-and-tips-collection/blob/main/General_resources/videos.md)
+- [Books](General_resources/books.md)
+- [Conferences](General_resources/conferences.md)
+- Blogs
+- [Software / Apps](https://github.com/Lumary2/Developer-resources-and-tips-collection/blob/main/General_resources/software.md)
 - ...
 
 ## 👩🏻‍💻 Resources for programming languages:
