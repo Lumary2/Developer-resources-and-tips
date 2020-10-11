@@ -12,8 +12,7 @@ In the freeCodeCamp repo you find a lot of information and resources about diffe
 1. https://github.com/yangshun/tech-interview-handbook
 How to prepare for your tech interview
 
-1. https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f
-How to be an effective Engineer
+1. [How to be an effective Engineer] (https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
 
 1. https://github.com/ripienaar/free-for-dev
 Free services for developers
