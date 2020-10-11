@@ -32,7 +32,7 @@
 
 ### Design related links:
 
-## Colors for CSS
+#### Colors for CSS
 - http://colors.co/
 - https://colorhunt.co/
 - http://paletton.com/#uid=1490u0kB1s6noACup-9F3mPL3hq
@@ -44,21 +44,21 @@
 - https://imagecolorpicker.com/en/
 - http://colormind.io
 
-## CSS Smooth Shadow Generator
+#### CSS Smooth Shadow Generator
 
 https://neumorphism.io/
 https://brumm.af/shadows
 
-## Beautify images of source code
+#### Beautify images of source code
 
 - https://carbon.now.sh/
 
-## Free favicon icon generator 
+#### Free favicon icon generator 
 
 - https://favicon.io/
 
 
-## Cover image maker
+#### Cover image maker
 
 - https://coverview.now.sh/
 
