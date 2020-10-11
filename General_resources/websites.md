@@ -1,4 +1,4 @@
-### Websites
+### Learning Websites
 
 - [w3schools](www.w3schools.com) : Learn HTML, CSS, JavaScript, SQL and more for free. Excellent for beginners.
 
@@ -6,15 +6,18 @@
 
 - [tutorialspoint](www.tutorialspoint.com) : Covers a wide range of programming languages and topics, written and in video. Also a nice reference for looking up programming language questions.
 - [Stackoverflow](https://stackoverflow.com/) : The first address when you have questions to coding in every language.
-- [DEV](https://dev.to/): Developer Social Network
-- https://twittimer.com/app/#/ : tweet scheduler
-- https://console.cron-job.org/ : cron service
+
+### Developer Networks
+- [DEV](https://dev.to/): Developer Blogging Platform and Social Network
 
 ### Open source contribution reference
 
 - https://www.firsttimersonly.com/
 - https://up-for-grabs.net/
 - https://goodfirstissues.com/
+
+### Services
+- https://console.cron-job.org/ : cron service
 
 ### Hosting sites (free)
 
