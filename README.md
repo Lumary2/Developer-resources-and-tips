@@ -15,7 +15,7 @@ Hello! The purpose of this repository is to collect resources and tips for progr
 ## 👩🏻‍💻 Resources for programming languages:
 - [Java](https://github.com/Lumary2/Developer-resources-and-tips-collection/blob/main/Resources_for_programming_languages/Java.md)
 - [Python](Genereal_resources/../Resources_for_programming_languages/Python.md)
-- C  
+- [C](General_resources../../Resources_for_programming_languages/C.md)  
 - [C++](Genereal_resources/../Resources_for_programming_languages/C++.md)
 - [PHP](https://github.com/Lumary2/Developer-resources-and-tips-collection/blob/main/Resources_for_programming_languages/Php.md)
 - …
