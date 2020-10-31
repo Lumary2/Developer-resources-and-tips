@@ -33,20 +33,13 @@
 ### Design related links:
 
 #### Colors for CSS
-- http://colors.co/
-- https://colorhunt.co/
-- http://paletton.com/#uid=1490u0kB1s6noACup-9F3mPL3hq
-- https://www.color-hex.com/
-- https://mycolor.space/
-- https://materialuicolors.co/
-- https://flatuicolors.com/
+
 - https://cssgradient.io/
 - https://imagecolorpicker.com/en/
 - http://colormind.io
 
 #### CSS Smooth Shadow Generator
 
-https://neumorphism.io/
 https://brumm.af/shadows
 
 #### Beautify images of source code
