@@ -32,6 +32,11 @@
 
 ### Design related links:
 
+#### Design inspiration
+
+- https://codepen.io/trending
+- https://dribbble.com/
+
 #### Colors for CSS
 
 - https://cssgradient.io/
