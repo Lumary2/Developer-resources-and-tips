@@ -28,6 +28,7 @@ Hello! The purpose of this repository is to collect resources and tips for progr
 - …
 
 ## 💡 General Tips
+- [Career](https://github.com/Lumary2/Developer-resources-and-tips/blob/main/General_Tips/career.md)
 - [Oh thats good to know](https://github.com/Lumary2/Developer-resources-and-tips-collection/blob/main/General_Tips/Oh_thats_good_to_know.md)
 - [What I wished I knew before I started programming](General_Tips/What_I_wished_I_knew_before_I_started_programming.md)
 - How to not procrastinate
